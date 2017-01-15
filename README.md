@@ -1,6 +1,7 @@
 # dotfiles
 
-cd ~/
-git clone https://github.com/sansloi/dotfiles.git
+>cd ~/
+>
+>git clone https://github.com/sansloi/dotfiles.git
 
-config as needed
+config as needed. enjoy!
